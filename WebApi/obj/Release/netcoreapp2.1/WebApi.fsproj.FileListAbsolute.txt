@@ -1,0 +1,10 @@
+D:\Estudos\C#\Web Api\WebApi\bin\Release\netcoreapp2.1\WebApi.deps.json
+D:\Estudos\C#\Web Api\WebApi\bin\Release\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\Estudos\C#\Web Api\WebApi\bin\Release\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\Estudos\C#\Web Api\WebApi\bin\Release\netcoreapp2.1\WebApi.dll
+D:\Estudos\C#\Web Api\WebApi\bin\Release\netcoreapp2.1\WebApi.pdb
+D:\Estudos\C#\Web Api\WebApi\obj\Release\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\Estudos\C#\Web Api\WebApi\obj\Release\netcoreapp2.1\WebApi.AssemblyInfo.fs
+D:\Estudos\C#\Web Api\WebApi\obj\Release\netcoreapp2.1\WebApi.dll
+D:\Estudos\C#\Web Api\WebApi\obj\Release\netcoreapp2.1\WebApi.pdb
+D:\Estudos\C#\Web Api\WebApi\obj\Release\netcoreapp2.1\WebApi.fsprojAssemblyReference.cache
